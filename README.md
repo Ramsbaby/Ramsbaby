@@ -24,7 +24,7 @@
 
 **AI Company-in-a-Box for Claude Max subscribers — $0 extra cost**
 
-Your Claude Max subscription sits idle 23 hours a day. This turns it into a 24/7 AI operations system: 11 AI teams, 30 cron tasks, 98% context compression — no API bills.
+Your Claude Max subscription sits idle 23 hours a day. This turns it into a 24/7 AI operations system: 12 AI teams, 45 cron tasks, 98% context compression — no API bills.
 
 `claude` `discord-bot` `mcp` `ai-agent` `nodejs` `self-hosted`
 
