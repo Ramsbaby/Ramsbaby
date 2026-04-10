@@ -20,6 +20,16 @@
 
 ## 🚀 Featured Projects
 
+### [⚡ Jarvis](https://github.com/Ramsbaby/jarvis) &nbsp; [![Stars](https://img.shields.io/github/stars/Ramsbaby/jarvis?style=social)](https://github.com/Ramsbaby/jarvis/stargazers)
+
+**Self-healing AI operations platform — runs 24/7, fixes itself, gets smarter**
+
+Discord bot with voice recognition + RAG knowledge base (10,000+ docs) + daily behavioural insight reports + 99 automation scripts with 4-layer self-recovery + Dev-Queue for autonomous coding + 8 AI agent teams. Zero API charges.
+
+`ai-agent` `claude` `discord-bot` `rag` `self-healing` `automation` `ollama` `lancedb`
+
+---
+
 ### [🤖 claude-discord-bridge](https://github.com/Ramsbaby/claude-discord-bridge) &nbsp; [![Stars](https://img.shields.io/github/stars/Ramsbaby/claude-discord-bridge?style=social)](https://github.com/Ramsbaby/claude-discord-bridge/stargazers)
 
 **AI Company-in-a-Box for Claude Max subscribers — $0 extra cost**
