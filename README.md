@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/AI_Systems-builder-blue?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="https://blog.ramsbaby.com"><img src="https://img.shields.io/badge/Blog-blog.ramsbaby.com-1f6feb?style=flat-square&logo=rss&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -67,6 +71,18 @@ Your Claude Max subscription sits idle 23 hours a day. This turns it into a 24/7
 Analyzes its own execution logs → proposes AGENTS.md changes → waits for human approval. Proposals only — no silent self-modification.
 
 `autonomous` `self-improvement` `claude` `llm` `meta-programming`
+
+---
+
+## ✍️ Writing
+
+**[서버가 돌아가요 ⚙️ — blog.ramsbaby.com](https://blog.ramsbaby.com)** · 장애와 삽질이 가르쳐 준 것들
+
+- [Spring 실전 장애 대응 로드맵](https://blog.ramsbaby.com/spring/spring-troubleshooting-hub/)
+- [백엔드 아키텍처 로드맵 — 설계 원칙부터 분산 시스템까지](https://blog.ramsbaby.com/architecture/architecture-hub/)
+- [AI 시대 백엔드 DX 로드맵](https://blog.ramsbaby.com/ai/ai-dx-hub/)
+- [메시지 좋아요 카운트, 레디스 락 대신 Set 자료구조로 잡기](https://blog.ramsbaby.com/infra/redis-distributed-lock/)
+- [AWS 프로페셔널 자격증 3개 두 달 취득기 — 기출 복기 공부법과 한계](https://blog.ramsbaby.com/ai/aws-professional-3-certs-claude-method/)
 
 ---
 
