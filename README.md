@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Backend Engineer · AI Systems Builder</strong><br>
-  SK D&D · 9+ years · Java / Spring Boot / AWS / Kafka
+  Hanwha Energy · 9+ years · Java / Spring Boot / AWS / Kafka
 </p>
 
 <p align="center">
