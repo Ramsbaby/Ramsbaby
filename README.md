@@ -34,16 +34,6 @@ Discord bot with voice recognition + RAG knowledge base (10,000+ docs) + daily b
 
 ---
 
-### [🤖 claude-discord-bridge](https://github.com/Ramsbaby/claude-discord-bridge) &nbsp; [![Stars](https://img.shields.io/github/stars/Ramsbaby/claude-discord-bridge?style=social)](https://github.com/Ramsbaby/claude-discord-bridge/stargazers)
-
-**AI Company-in-a-Box for Claude Max subscribers — $0 extra cost**
-
-Your Claude Max subscription sits idle 23 hours a day. This turns it into a 24/7 AI operations system: 12 AI teams, 45 cron tasks, 98% context compression — no API bills.
-
-`claude` `discord-bot` `mcp` `ai-agent` `nodejs` `self-hosted`
-
----
-
 ### [🦞 openclaw-self-healing](https://github.com/Ramsbaby/openclaw-self-healing) &nbsp; [![Stars](https://img.shields.io/github/stars/Ramsbaby/openclaw-self-healing?style=social)](https://github.com/Ramsbaby/openclaw-self-healing/stargazers)
 
 **Stop getting paged at 3AM**
